@@ -23,6 +23,5 @@ module "app_bucket" {
     env = terraform.workspace
     owner = "data-team"
   }
-
-  }
+  
 }
